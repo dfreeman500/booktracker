@@ -1,4 +1,4 @@
-# Practicing Ruby on Rails JSON API
+# Book Tracker: Practicing Ruby on Rails JSON API
 
 https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb
 
@@ -26,8 +26,8 @@ https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb
 #
 api calls for authors and books
 
-<img src="images/authors.png" width="500" >
-<img src="images/books.png" width="500" >
+<img src="images/authors.png" width="400" >
+<img src="images/books.png" width="400" >
 
 #
 ### Process for making API:
