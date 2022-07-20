@@ -26,8 +26,8 @@ https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb
 #
 api calls for authors and books
 
-<img src="images/authors.png" width="600" >
-<img src="images/books.png" width="600" >
+<img src="images/authors.png" width="500" >
+<img src="images/books.png" width="500" >
 
 #
 ### Process for making API:
