@@ -30,7 +30,7 @@ https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb
 * mkdir railsapi
 
 * rails new booktracker --api
-	*Could use rails new booktracker --database=postgresql --api , to immediately set up postgresql
+	* Could use rails new booktracker --database=postgresql --api , to immediately set up postgresql
 
 * In Gemfile uncomment gem "rack-cors"
 
@@ -57,6 +57,7 @@ https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb
 
 * Query the db (ex:)
 	* rails db
+
 	* SELECT *
 	* FROM books
 	* LIMIT 2;
@@ -67,8 +68,8 @@ https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb
 
 * In app/controllers/books_controller.rb store all Books into variable and render json	
 	* def index
-		*books = Book.all
-		*render json: books 
+		* books = Book.all
+		* render json: books 
 	* end
 
 * Create index action route in config/routes.rb
